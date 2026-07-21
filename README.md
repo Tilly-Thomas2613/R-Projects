@@ -1,11 +1,10 @@
 # Stats220
 
-## This is my repo for STATS 220. 
-
 ### A little about me:
 
-* I am undertaking a degree in Psychology and Applied Statistics
-* After university, I want to go into **neuropsychology research** to study the brain and help contribute to understanding brain injuries and neurological conditions, or go into **clinical neuropsychology** and work directly with patients.
+I'm a second-year Bachelor of Science student at the University of Auckland, majoring in **Psychology and Statistics.**
+
+I'm passionate about using data to answer meaningful research questions. My long-term goal is to pursue a career in neuropsychology research, applying statistical methods to better understand the brain, neurological conditions, and human behaviour.
 
 *In my free time I love to:*
 * Read
@@ -13,12 +12,39 @@
 * Listen to music. *(My faviourite artist is [Billie eillish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH?si=iUH0rFeURuSqAfqitoUzfg))*
 * Play squash
 
-### Why I chose STATS 220:
-1. Build on R coding skills
-2. Widen my skill set
-3. The course supports my future ambition of neuropsychology research
-I am interested in learning more about R studio and coding and how I can use it to visualise data.
+### About this Repository: 
+This repository contains projects completed while learning data technologies and statistical programming in R.
 
-A meme that captures how I currently feel about my university studies is:
+My projects focus on developing practical skills in:
+* Cleaning and organising data
+* Creating dynamic data sets
+* Producing informative visualisations
+* Applying statistical models
+* Interpreting results
+* Creating reproducible analyses using R Markdown
 
-![](https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif)
+As I continue my studies, I plan to expand this portfolio with independent projects using publicly available datasets and real-world research questions.
+
+### Current technical Skills:
+Programming
+* R
+* RStudio
+* tidyverse
+* dplyr
+* ggplot2
+* R Markdown
+Statistical Analysis
+* Data cleaning
+* Exploratory data analysis
+* Data visualisation
+* Linear regression
+* Logistic regression
+* Poisson regression
+* Hypothesis testing
+* ANOVA
+* Statistical reporting
+Software
+* Microsoft Excel
+* Microsoft Word
+* Microsoft PowerPoint
+* GitHub
