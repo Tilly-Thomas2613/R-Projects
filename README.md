@@ -33,6 +33,7 @@ Programming
 * dplyr
 * ggplot2
 * R Markdown
+  
 Statistical Analysis
 * Data cleaning
 * Exploratory data analysis
@@ -43,6 +44,7 @@ Statistical Analysis
 * Hypothesis testing
 * ANOVA
 * Statistical reporting
+
 Software
 * Microsoft Excel
 * Microsoft Word
