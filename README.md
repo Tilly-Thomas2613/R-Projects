@@ -8,8 +8,8 @@ I'm passionate about using data to answer meaningful research questions. My long
 
 *In my free time I love to:*
 * Read
-* Paint *(I get all my art inspo from [pinterest](https://nz.pinterest.com/))*
-* Listen to music. *(My faviourite artist is [Billie eillish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH?si=iUH0rFeURuSqAfqitoUzfg))*
+* Paint
+* Listen to music
 * Play squash
 
 ### About this Repository: 
